@@ -1,0 +1,209 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea\
+* .idea\.name
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\encodings.xml
+* .idea\misc.xml
+* .idea\workspace.xml
+* LICENSE
+* README.md
+* app\
+* app\build.gradle
+* app\libs\
+* app\libs\acra-4.5.0.jar
+* app\libs\guice-3.0-no_aop.jar
+* app\libs\javax.inject-1.jar
+* app\libs\ormlite-android-4.47.jar
+* app\libs\ormlite-core-4.47.jar
+* app\libs\ormlite-jdbc-4.47.jar
+* app\libs\roboguice-2.0.jar
+* app\libs\simple-xml-2.7.1.jar
+* app\src\
+* app\src\main\
+* app\src\main\AndroidManifest.xml
+* app\src\main\java\
+* app\src\main\java\com\
+* app\src\main\java\com\mlaskows\
+* app\src\main\java\com\mlaskows\quiz\
+* app\src\main\java\com\mlaskows\quiz\QuizApplication.java
+* app\src\main\java\com\mlaskows\quiz\activity\
+* app\src\main\java\com\mlaskows\quiz\activity\ExerciseActivity.java
+* app\src\main\java\com\mlaskows\quiz\activity\FullScreenActivity.java
+* app\src\main\java\com\mlaskows\quiz\activity\LevelsActivity.java
+* app\src\main\java\com\mlaskows\quiz\activity\MainActivity.java
+* app\src\main\java\com\mlaskows\quiz\activity\ScoreActivity.java
+* app\src\main\java\com\mlaskows\quiz\activity\clicklistener\
+* app\src\main\java\com\mlaskows\quiz\activity\clicklistener\LevelResetListener.java
+* app\src\main\java\com\mlaskows\quiz\activity\util\
+* app\src\main\java\com\mlaskows\quiz\activity\util\ActivityStarter.java
+* app\src\main\java\com\mlaskows\quiz\activity\util\BundleBuilder.java
+* app\src\main\java\com\mlaskows\quiz\adapter\
+* app\src\main\java\com\mlaskows\quiz\adapter\LevelsAdapter.java
+* app\src\main\java\com\mlaskows\quiz\model\
+* app\src\main\java\com\mlaskows\quiz\model\DatabaseHelper.java
+* app\src\main\java\com\mlaskows\quiz\model\XmlDataLoader.java
+* app\src\main\java\com\mlaskows\quiz\model\dao\
+* app\src\main\java\com\mlaskows\quiz\model\dao\AnswerDao.java
+* app\src\main\java\com\mlaskows\quiz\model\dao\BaseDaoWrapper.java
+* app\src\main\java\com\mlaskows\quiz\model\dao\ExerciseDao.java
+* app\src\main\java\com\mlaskows\quiz\model\dao\LevelDao.java
+* app\src\main\java\com\mlaskows\quiz\model\dao\QuestionDao.java
+* app\src\main\java\com\mlaskows\quiz\model\dao\ScoringDao.java
+* app\src\main\java\com\mlaskows\quiz\model\entity\
+* app\src\main\java\com\mlaskows\quiz\model\entity\Answer.java
+* app\src\main\java\com\mlaskows\quiz\model\entity\Exercise.java
+* app\src\main\java\com\mlaskows\quiz\model\entity\Level.java
+* app\src\main\java\com\mlaskows\quiz\model\entity\Question.java
+* app\src\main\java\com\mlaskows\quiz\model\entity\Quiz.java
+* app\src\main\java\com\mlaskows\quiz\model\entity\Scoring.java
+* app\src\main\java\com\mlaskows\quiz\model\enums\
+* app\src\main\java\com\mlaskows\quiz\model\enums\AnswerType.java
+* app\src\main\java\com\mlaskows\quiz\model\enums\QuestionType.java
+* app\src\main\java\com\mlaskows\quiz\utility\
+* app\src\main\java\com\mlaskows\quiz\utility\ImageUtility.java
+* app\src\main\res\
+* app\src\main\res\drawable-hdpi\
+* app\src\main\res\drawable-hdpi\ic_launcher.png
+* app\src\main\res\drawable-ldpi\
+* app\src\main\res\drawable-ldpi\tip.png
+* app\src\main\res\drawable-mdpi\
+* app\src\main\res\drawable-mdpi\ic_launcher.png
+* app\src\main\res\drawable-mdpi\tip.png
+* app\src\main\res\drawable-xhdpi\
+* app\src\main\res\drawable-xhdpi\ic_launcher.png
+* app\src\main\res\drawable-xxhdpi\
+* app\src\main\res\drawable-xxhdpi\ic_launcher.png
+* app\src\main\res\drawable\
+* app\src\main\res\drawable\background.png
+* app\src\main\res\drawable\burkina_faso.jpeg
+* app\src\main\res\drawable\button_image_answer.xml
+* app\src\main\res\drawable\button_image_tip.xml
+* app\src\main\res\drawable\button_main.xml
+* app\src\main\res\drawable\button_normal.xml
+* app\src\main\res\drawable\button_pressed.xml
+* app\src\main\res\drawable\button_tip.xml
+* app\src\main\res\drawable\china.jpeg
+* app\src\main\res\drawable\closed.png
+* app\src\main\res\drawable\egypt.jpeg
+* app\src\main\res\drawable\france.jpg
+* app\src\main\res\drawable\germany.jpg
+* app\src\main\res\drawable\india.jpeg
+* app\src\main\res\drawable\japan.jpeg
+* app\src\main\res\drawable\open.png
+* app\src\main\res\drawable\poland.jpg
+* app\src\main\res\drawable\rpa.jpeg
+* app\src\main\res\drawable\somalia.jpeg
+* app\src\main\res\drawable\spain.jpeg
+* app\src\main\res\drawable\tip.png
+* app\src\main\res\drawable\tip_button.xml
+* app\src\main\res\drawable\uzbekistan.jpg
+* app\src\main\res\layout\
+* app\src\main\res\layout\activity_exercise.xml
+* app\src\main\res\layout\activity_levels.xml
+* app\src\main\res\layout\activity_main.xml
+* app\src\main\res\layout\activity_score.xml
+* app\src\main\res\layout\list_item_row.xml
+* app\src\main\res\menu\
+* app\src\main\res\menu\levels.xml
+* app\src\main\res\raw\
+* app\src\main\res\raw\q_en.xml
+* app\src\main\res\values-land-mdpi\
+* app\src\main\res\values-land-mdpi\dimens.xml
+* app\src\main\res\values-land\
+* app\src\main\res\values-land\dimens.xml
+* app\src\main\res\values-land\strings.xml
+* app\src\main\res\values-mdpi\
+* app\src\main\res\values-mdpi\dimens.xml
+* app\src\main\res\values-sw600dp\
+* app\src\main\res\values-sw600dp\dimens.xml
+* app\src\main\res\values-sw720dp-land\
+* app\src\main\res\values-sw720dp-land\dimens.xml
+* app\src\main\res\values-v11\
+* app\src\main\res\values-v11\styles.xml
+* app\src\main\res\values-v14\
+* app\src\main\res\values-v14\styles.xml
+* app\src\main\res\values\
+* app\src\main\res\values\attrs.xml
+* app\src\main\res\values\colors.xml
+* app\src\main\res\values\dimens.xml
+* app\src\main\res\values\params.xml
+* app\src\main\res\values\strings.xml
+* app\src\main\res\values\styles.xml
+* build.gradle
+* gradle\
+* gradle\wrapper\
+* gradle\wrapper\gradle-wrapper.jar
+* gradle\wrapper\gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* ic_launcher-web.png
+* proguard-project.txt
+* settings.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:20.0.0
+guava-15.0.jar => com.google.guava:guava:15.0
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+guava-15.0.jar => version 15.0 in com.google.guava:guava:15.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* libs\acra-4.5.0.jar => app\libs\acra-4.5.0.jar
+* libs\guice-3.0-no_aop.jar => app\libs\guice-3.0-no_aop.jar
+* libs\javax.inject-1.jar => app\libs\javax.inject-1.jar
+* libs\ormlite-android-4.47.jar => app\libs\ormlite-android-4.47.jar
+* libs\ormlite-core-4.47.jar => app\libs\ormlite-core-4.47.jar
+* libs\ormlite-jdbc-4.47.jar => app\libs\ormlite-jdbc-4.47.jar
+* libs\roboguice-2.0.jar => app\libs\roboguice-2.0.jar
+* libs\simple-xml-2.7.1.jar => app\libs\simple-xml-2.7.1.jar
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
