@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 20
+    compileSdkVersion 23
     buildToolsVersion "23.0.3"
 
     defaultConfig {
@@ -20,7 +20,7 @@ android {
 
 dependencies {
     compile 'com.android.support:support-v4:20.0.0'
-    compile 'com.google.guava:guava:15.0'
+    compile 'com.google.guava:guava:17.0'
     compile files('libs/acra-4.5.0.jar')
     compile files('libs/guice-3.0-no_aop.jar')
     compile files('libs/javax.inject-1.jar')
