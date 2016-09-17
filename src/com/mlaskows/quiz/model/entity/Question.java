@@ -20,14 +20,14 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.model.entity;
+package com.baliyaan.android.quiz.test.model.entity;
 
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.Root;
 
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;
-import com.mlaskows.quiz.model.dao.QuestionDao;
+import com.baliyaan.android.quiz.test.model.dao.QuestionDao;
 
 /**
  * This class represents question. It is XML element and DB

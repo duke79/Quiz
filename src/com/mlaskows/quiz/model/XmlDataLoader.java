@@ -19,7 +19,7 @@
  * Please contact mlaskowsk@gmail.com if you need additional information
  * or have any questions.
  */
-package com.mlaskows.quiz.model;
+package com.baliyaan.android.quiz.test.model;
 
 import java.io.InputStream;
 import java.lang.reflect.Field;
@@ -31,8 +31,8 @@ import org.simpleframework.xml.core.Persister;
 import android.content.Context;
 import android.content.res.Resources;
 
-import com.mlaskows.quiz.R;
-import com.mlaskows.quiz.model.entity.Quiz;
+import com.baliyaan.android.quiz.test.R;
+import com.baliyaan.android.quiz.test.model.entity.Quiz;
 
 /**
  * 

@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.model.entity;
+package com.baliyaan.android.quiz.test.model.entity;
 
 import java.util.Collection;
 
@@ -32,9 +32,9 @@ import org.simpleframework.xml.Root;
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.field.ForeignCollectionField;
 import com.j256.ormlite.table.DatabaseTable;
-import com.mlaskows.quiz.model.dao.ExerciseDao;
-import com.mlaskows.quiz.model.enums.AnswerType;
-import com.mlaskows.quiz.model.enums.QuestionType;
+import com.baliyaan.android.quiz.test.model.dao.ExerciseDao;
+import com.baliyaan.android.quiz.test.model.enums.AnswerType;
+import com.baliyaan.android.quiz.test.model.enums.QuestionType;
 
 /**
  * This class represents exercise in quiz. It contains

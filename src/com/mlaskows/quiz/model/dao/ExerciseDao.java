@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.model.dao;
+package com.baliyaan.android.quiz.test.model.dao;
 
 import java.sql.SQLException;
 
@@ -31,9 +31,9 @@ import com.google.inject.Singleton;
 import com.j256.ormlite.dao.BaseDaoImpl;
 import com.j256.ormlite.support.ConnectionSource;
 import com.j256.ormlite.table.DatabaseTableConfig;
-import com.mlaskows.quiz.R;
-import com.mlaskows.quiz.model.DatabaseHelper;
-import com.mlaskows.quiz.model.entity.Exercise;
+import com.baliyaan.android.quiz.test.R;
+import com.baliyaan.android.quiz.test.model.DatabaseHelper;
+import com.baliyaan.android.quiz.test.model.entity.Exercise;
 
 /**
  * Data Access Object for entity {@link Exercise}.

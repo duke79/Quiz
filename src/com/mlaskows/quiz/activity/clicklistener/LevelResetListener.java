@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.activity.clicklistener;
+package com.baliyaan.android.quiz.test.activity.clicklistener;
 
 import roboguice.RoboGuice;
 import android.os.Bundle;
@@ -28,15 +28,15 @@ import android.view.View;
 import android.view.View.OnClickListener;
 
 import com.google.inject.Inject;
-import com.mlaskows.quiz.R;
-import com.mlaskows.quiz.activity.ExerciseActivity;
-import com.mlaskows.quiz.activity.ScoreActivity;
-import com.mlaskows.quiz.activity.util.ActivityStarter;
-import com.mlaskows.quiz.activity.util.BundleBuilder;
-import com.mlaskows.quiz.model.dao.ExerciseDao;
-import com.mlaskows.quiz.model.dao.LevelDao;
-import com.mlaskows.quiz.model.entity.Exercise;
-import com.mlaskows.quiz.model.entity.Level;
+import com.baliyaan.android.quiz.test.R;
+import com.baliyaan.android.quiz.test.activity.ExerciseActivity;
+import com.baliyaan.android.quiz.test.activity.ScoreActivity;
+import com.baliyaan.android.quiz.test.activity.util.ActivityStarter;
+import com.baliyaan.android.quiz.test.activity.util.BundleBuilder;
+import com.baliyaan.android.quiz.test.model.dao.ExerciseDao;
+import com.baliyaan.android.quiz.test.model.dao.LevelDao;
+import com.baliyaan.android.quiz.test.model.entity.Exercise;
+import com.baliyaan.android.quiz.test.model.entity.Level;
 
 public class LevelResetListener implements OnClickListener {
 

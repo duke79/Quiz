@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.model;
+package com.baliyaan.android.quiz.test.model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,19 +36,19 @@ import com.google.inject.Inject;
 import com.j256.ormlite.android.apptools.OrmLiteSqliteOpenHelper;
 import com.j256.ormlite.support.ConnectionSource;
 import com.j256.ormlite.table.TableUtils;
-import com.mlaskows.quiz.QuizApplication;
-import com.mlaskows.quiz.R;
-import com.mlaskows.quiz.model.dao.AnswerDao;
-import com.mlaskows.quiz.model.dao.ExerciseDao;
-import com.mlaskows.quiz.model.dao.LevelDao;
-import com.mlaskows.quiz.model.dao.QuestionDao;
-import com.mlaskows.quiz.model.dao.ScoringDao;
-import com.mlaskows.quiz.model.entity.Answer;
-import com.mlaskows.quiz.model.entity.Exercise;
-import com.mlaskows.quiz.model.entity.Level;
-import com.mlaskows.quiz.model.entity.Question;
-import com.mlaskows.quiz.model.entity.Quiz;
-import com.mlaskows.quiz.model.entity.Scoring;
+import com.baliyaan.android.quiz.test.QuizApplication;
+import com.baliyaan.android.quiz.test.R;
+import com.baliyaan.android.quiz.test.model.dao.AnswerDao;
+import com.baliyaan.android.quiz.test.model.dao.ExerciseDao;
+import com.baliyaan.android.quiz.test.model.dao.LevelDao;
+import com.baliyaan.android.quiz.test.model.dao.QuestionDao;
+import com.baliyaan.android.quiz.test.model.dao.ScoringDao;
+import com.baliyaan.android.quiz.test.model.entity.Answer;
+import com.baliyaan.android.quiz.test.model.entity.Exercise;
+import com.baliyaan.android.quiz.test.model.entity.Level;
+import com.baliyaan.android.quiz.test.model.entity.Question;
+import com.baliyaan.android.quiz.test.model.entity.Quiz;
+import com.baliyaan.android.quiz.test.model.entity.Scoring;
 
 /**
  * Creates database in first application run. Also can

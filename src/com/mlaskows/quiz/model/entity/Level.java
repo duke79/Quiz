@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.model.entity;
+package com.baliyaan.android.quiz.test.model.entity;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -37,7 +37,7 @@ import com.google.common.collect.Lists;
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.field.ForeignCollectionField;
 import com.j256.ormlite.table.DatabaseTable;
-import com.mlaskows.quiz.model.dao.LevelDao;
+import com.baliyaan.android.quiz.test.model.dao.LevelDao;
 
 /**
  * Quiz level. It is XML element and DB entity in one.

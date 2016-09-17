@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz;
+package com.baliyaan.android.quiz.test;
 
 import org.acra.ACRA;
 import org.acra.ReportField;

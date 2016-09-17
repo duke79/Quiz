@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.activity;
+package com.baliyaan.android.quiz.test.activity;
 
 import roboguice.inject.ContentView;
 import roboguice.inject.InjectView;
@@ -34,7 +34,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-import com.mlaskows.quiz.R;
+import com.baliyaan.android.quiz.test.R;
 
 /**
  * Main application activity.

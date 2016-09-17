@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.model.entity;
+package com.baliyaan.android.quiz.test.model.entity;
 
 import org.simpleframework.xml.Attribute;
 import org.simpleframework.xml.Root;
@@ -28,7 +28,7 @@ import org.simpleframework.xml.Text;
 
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;
-import com.mlaskows.quiz.model.dao.AnswerDao;
+import com.baliyaan.android.quiz.test.model.dao.AnswerDao;
 
 /**
  * Exercise answer. It is XML element and DB entity in one.

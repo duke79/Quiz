@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.activity;
+package com.baliyaan.android.quiz.test.activity;
 
 import java.util.List;
 
@@ -30,10 +30,10 @@ import android.os.Bundle;
 import android.widget.ListView;
 
 import com.google.inject.Inject;
-import com.mlaskows.quiz.R;
-import com.mlaskows.quiz.adapter.LevelsAdapter;
-import com.mlaskows.quiz.model.dao.LevelDao;
-import com.mlaskows.quiz.model.entity.Level;
+import com.baliyaan.android.quiz.test.R;
+import com.baliyaan.android.quiz.test.adapter.LevelsAdapter;
+import com.baliyaan.android.quiz.test.model.dao.LevelDao;
+import com.baliyaan.android.quiz.test.model.entity.Level;
 
 /**
  * Activity with levels list.

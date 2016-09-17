@@ -115,5 +115,119 @@
 			    </exercise>
 		    </exercises>
 		</level>
+		<level id="4" name="Africa2">
+		    <scoring usingTip="-30" unsuccessfulAttempt="-30">300</scoring>
+		    <exercises>
+			    <exercise questionType="IMAGE" answerType="TEXT_FIELD">
+			        <question>
+			            <image>somalia</image>
+			        </question>
+			        <tip>This country has no government.</tip>
+			        <answers>
+			            <answer valid="true">somalia</answer>
+			        </answers>
+			    </exercise>
+  				<exercise questionType="TEXT" answerType="TEXT">
+			        <question>
+			            <text>What is the name of Egypt capital</text>
+			        </question>
+			        <tip>Name starts on C.</tip>
+			        <answers>
+			            <answer>Johanesburg</answer>
+			            <answer>Capetown</answer>
+			            <answer valid="true">Cairo</answer>
+			            <answer>Lagos</answer>
+			        </answers>
+			    </exercise>
+			    <exercise questionType="TEXT" answerType="IMAGE">
+			        <question>
+			            <text>Point RPA flag.</text>
+			        </question>
+			        <tip>It contains blue color.</tip>
+			        <answers>
+			            <answer>somalia</answer>
+			            <answer>egypt</answer>
+			            <answer valid="true">rpa</answer>
+			            <answer>burkina_faso</answer>
+			        </answers>
+			    </exercise>
+		    </exercises>
+		</level>
+		<level id="5" name="Africa3">
+		    <scoring usingTip="-30" unsuccessfulAttempt="-30">300</scoring>
+		    <exercises>
+			    <exercise questionType="IMAGE" answerType="TEXT_FIELD">
+			        <question>
+			            <image>somalia</image>
+			        </question>
+			        <tip>This country has no government.</tip>
+			        <answers>
+			            <answer valid="true">somalia</answer>
+			        </answers>
+			    </exercise>
+  				<exercise questionType="TEXT" answerType="TEXT">
+			        <question>
+			            <text>What is the name of Egypt capital</text>
+			        </question>
+			        <tip>Name starts on C.</tip>
+			        <answers>
+			            <answer>Johanesburg</answer>
+			            <answer>Capetown</answer>
+			            <answer valid="true">Cairo</answer>
+			            <answer>Lagos</answer>
+			        </answers>
+			    </exercise>
+			    <exercise questionType="TEXT" answerType="IMAGE">
+			        <question>
+			            <text>Point RPA flag.</text>
+			        </question>
+			        <tip>It contains blue color.</tip>
+			        <answers>
+			            <answer>somalia</answer>
+			            <answer>egypt</answer>
+			            <answer valid="true">rpa</answer>
+			            <answer>burkina_faso</answer>
+			        </answers>
+			    </exercise>
+		    </exercises>
+		</level>
+		<level id="6" name="Africa4">
+		    <scoring usingTip="-30" unsuccessfulAttempt="-30">300</scoring>
+		    <exercises>
+			    <exercise questionType="IMAGE" answerType="TEXT_FIELD">
+			        <question>
+			            <image>somalia</image>
+			        </question>
+			        <tip>This country has no government.</tip>
+			        <answers>
+			            <answer valid="true">somalia</answer>
+			        </answers>
+			    </exercise>
+  				<exercise questionType="TEXT" answerType="TEXT">
+			        <question>
+			            <text>What is the name of Egypt capital</text>
+			        </question>
+			        <tip>Name starts on C.</tip>
+			        <answers>
+			            <answer>Johanesburg</answer>
+			            <answer>Capetown</answer>
+			            <answer valid="true">Cairo</answer>
+			            <answer>Lagos</answer>
+			        </answers>
+			    </exercise>
+			    <exercise questionType="TEXT" answerType="IMAGE">
+			        <question>
+			            <text>Point RPA flag.</text>
+			        </question>
+			        <tip>It contains blue color.</tip>
+			        <answers>
+			            <answer>somalia</answer>
+			            <answer>egypt</answer>
+			            <answer valid="true">rpa</answer>
+			            <answer>burkina_faso</answer>
+			        </answers>
+			    </exercise>
+		    </exercises>
+		</level>
 	</levels>
 </quiz>

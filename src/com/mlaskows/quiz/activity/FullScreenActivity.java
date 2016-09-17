@@ -19,7 +19,7 @@
  * Please contact mlaskowsk@gmail.com if you need additional information
  * or have any questions.
  */
-package com.mlaskows.quiz.activity;
+package com.baliyaan.android.quiz.test.activity;
 
 import roboguice.activity.RoboActivity;
 import android.app.Activity;

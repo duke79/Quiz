@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.activity;
+package com.baliyaan.android.quiz.test.activity;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;
@@ -54,20 +54,20 @@ import android.widget.TextView.OnEditorActionListener;
 import android.widget.Toast;
 
 import com.google.inject.Inject;
-import com.mlaskows.quiz.R;
-import com.mlaskows.quiz.activity.util.ActivityStarter;
-import com.mlaskows.quiz.activity.util.BundleBuilder;
-import com.mlaskows.quiz.model.dao.ExerciseDao;
-import com.mlaskows.quiz.model.dao.LevelDao;
-import com.mlaskows.quiz.model.dao.ScoringDao;
-import com.mlaskows.quiz.model.entity.Answer;
-import com.mlaskows.quiz.model.entity.Exercise;
-import com.mlaskows.quiz.model.entity.Level;
-import com.mlaskows.quiz.model.entity.Question;
-import com.mlaskows.quiz.model.entity.Scoring;
-import com.mlaskows.quiz.model.enums.AnswerType;
-import com.mlaskows.quiz.model.enums.QuestionType;
-import com.mlaskows.quiz.utility.ImageUtility;
+import com.baliyaan.android.quiz.test.R;
+import com.baliyaan.android.quiz.test.activity.util.ActivityStarter;
+import com.baliyaan.android.quiz.test.activity.util.BundleBuilder;
+import com.baliyaan.android.quiz.test.model.dao.ExerciseDao;
+import com.baliyaan.android.quiz.test.model.dao.LevelDao;
+import com.baliyaan.android.quiz.test.model.dao.ScoringDao;
+import com.baliyaan.android.quiz.test.model.entity.Answer;
+import com.baliyaan.android.quiz.test.model.entity.Exercise;
+import com.baliyaan.android.quiz.test.model.entity.Level;
+import com.baliyaan.android.quiz.test.model.entity.Question;
+import com.baliyaan.android.quiz.test.model.entity.Scoring;
+import com.baliyaan.android.quiz.test.model.enums.AnswerType;
+import com.baliyaan.android.quiz.test.model.enums.QuestionType;
+import com.baliyaan.android.quiz.test.utility.ImageUtility;
 
 /**
  * This Activity displays exercise with {@link Question} and its {@link Answer}

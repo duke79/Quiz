@@ -20,7 +20,7 @@
  * or have any questions.
  */
 
-package com.mlaskows.quiz.utility;
+package com.baliyaan.android.quiz.test.utility;
 
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
